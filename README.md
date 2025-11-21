@@ -80,26 +80,26 @@ GET bank/_search
 }
 ```
 
-![Figure 1 — Somme des comptes.](./Sum_balance.png)
+![Figure 1 — Somme des comptes.](./img/Sum_balance.png)
 
 
 _Figure 1 —  Somme des comptes._
 
-![Figure 2 — Moyenne par états.](./Avg_state.png)
+![Figure 2 — Moyenne par états.](./img/Avg_state.png)
 
 
 _Figure 2 —  Moyenne par états._
 
 
-![Figure 3 — Ville ayant le plus comptes.](./Nuage_ville.png)
+![Figure 3 — Ville ayant le plus comptes.](./img/Nuage_ville.png)
 
 
 _Figure 3 — Ville ayant le plus comptes._
 
-![Figure 4](./Dashboard.png)
+![Figure 4](./img/Dashboard.png)
 _Figure 4 — Dashboard avec les 3 visualisation_
 
-![Figure 5](./Dashboardpostrecherche.png)
+![Figure 5](./img/Dashboardpostrecherche.png)
 _Figure 5 — Dashboard post rechercher_
 
 
